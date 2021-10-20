@@ -2,15 +2,15 @@
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
-![Image](ml_art2019.png)
+<!--![Image](ml_art2019.png)-->
 
 # Description
 
-This course explores the vital new domain of Machine Learning (ML) for the arts. Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches.
+<!-- This course explores the vital new domain of Machine Learning (ML) for the arts. Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches.
 
 As ML permeates multiple aspects of culture, industry, and scholarship, it is essential to train the next generation of ML-literate artists and engineers and equip them with critical tools to evaluate these new techniques. How do computational tools augment, complicate, or supersede human creative endeavor? What new approaches to creative production are possible with the advent of affordable graphics hardware and ML software?
 
-This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.
+This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects. -->
 
 
 ## Details
@@ -21,6 +21,7 @@ This project-based course will be conducted primarily in python using free, open
 - **Office Hours:** TBD, zoom and in person
 
 ## Course objectives
+<!--
 - Experiential Learning
 - Critical thinking and making
 - Train and deploy Neural Networks (NN) and Machine Learning (ML) models
@@ -34,7 +35,7 @@ and deep learning technologies and their consequences.
 - Demonstrate a satisfactory ability to knowledgably critique and engage in a discussion about
 creative work employing ML and generative art techniques.
 - Be able to manage the basics of version control and software project management.
-- Use online cloud-computing platforms for ML and generative arts processes.
+- Use online cloud-computing platforms for ML and generative arts processes.-->
 
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
@@ -43,6 +44,8 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
+| 1 | [TK] | 
+<!--
 | 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
 | 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
 | 3 | Text Generation II: Transformers, Fine-Tuning, Case Study: GPT-2 - Fine-tuning exercise - Due: Project 1 Proposal |
@@ -59,6 +62,7 @@ creative work employing ML and generative art techniques.
 | 14 | Platforms and Applications of ML and the Arts - Final project work time |
 | 15 | Workshopping Final Presentations - Final project work time |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
+-->
 
 <!--
 ## Introduction to Art and ML (Week 1)
@@ -351,7 +355,7 @@ _Recognition:_
 *Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
 
 ## Description of Assignments and Exams
-
+<!--
 __*Weekly Exercises*__
 We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
 
@@ -360,6 +364,7 @@ We will have three projects over the semester (at 15% each), covering three kind
 
 __*Final Project, Documentation, and Presentation*__
 At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
+-->
 
 __*Participation*__
 Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
