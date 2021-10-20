@@ -1,4 +1,4 @@
-# EMAR 349: Machine Learning for the Arts - TBD AY 2022-23
+# EMAR 349: Machine Learning for the Arts - Spring 2022
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
