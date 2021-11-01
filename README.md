@@ -56,11 +56,9 @@ A student who successfully completes this course will:
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
 - **Canvas:** this is where I will handle grading: [link to come]()
-<!--
-- **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
+<!--**Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
--->
+- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)-->
 
 
 # Grading
