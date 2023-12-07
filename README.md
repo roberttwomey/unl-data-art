@@ -1,4 +1,4 @@
-# EMAR 348: Data and Art - TBD AY 2022-23
+# EMAR 348: Data and Art
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
