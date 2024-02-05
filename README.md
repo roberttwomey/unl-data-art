@@ -36,7 +36,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | Intro to Data and Art; Cultural Analytics, Data-Driven Art<br> - Introductory exercise | 
+| 1 | **Intro to Data and Art**<br> Cultural Analytics, Data-Driven Art<br> - Introductory exercise | 
 | 2 | **Visualization Fundamentals**<br> -  Experimental visualization exercise |
 | 3 | Remix; Transcode; Interactive Visualization<br> - Interacting with data exercise  |
 | 4 | **Datasets and Archives**<br> - Cultural Analytics; Cultural Archives <br>- Quick data set and visualization exercise<br> - Assign Project 1: Archive + Features + Visualization  
@@ -49,7 +49,7 @@ A student who successfully completes this course will:
 | 11 | **Provenance**<br>- Fact and Fiction I: Lying with Image.<br> - This Class Does Not Exist exercise |
 | 12 | Fact and Fiction II: Faces, Voices, and Simulated Biometrics<br> - Computational ventriloquism exercise. |
 | 13 | Fact and Fiction III: Text and Image<br> - Due Project 2.<br> - Assign Project 3: Revisit/refine, self-directed project. |
-| 14 | Experimental Visualization; Visceralization; Perceptual Channels |
+| 14 | **Experimental Visualization**<br> Visceralization; Perceptual Channels |
 | 15 | Workshopping Final Presentations<br> - Final Presentation Work Time |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> NO FINAL EXAM<br> - Project 3 DUE |
 
