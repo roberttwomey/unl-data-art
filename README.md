@@ -11,8 +11,8 @@ This course addresses the numerous ways in which we produce, analyze, and experi
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Class:** Tu/Th 11:00-12:15pm
-- **Location:** CEMA 215
+- **Class:** Th 9:30-12:15pm
+- **Location:** CEMA 205
 - **Office Hours:** TBD, zoom and in person
 
 ## Course objectives
